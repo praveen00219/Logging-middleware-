@@ -1,0 +1,23 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Praveen",
+  "license": "ISC",
+  "description": "creating logging-middleware using express",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveen00219/Logging-middleware-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/praveen00219/Logging-middleware-/issues"
+  },
+  "homepage": "https://github.com/praveen00219/Logging-middleware-#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
